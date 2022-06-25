@@ -1,0 +1,24 @@
+{
+  "name": "reduxspa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielaltamirano1993/ReduxSPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielaltamirano1993/ReduxSPA/issues"
+  },
+  "homepage": "https://github.com/danielaltamirano1993/ReduxSPA#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "redux": "^4.2.0"
+  }
+}
